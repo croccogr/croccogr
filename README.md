@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! Cecilia here :)
+
+I am currently working on becoming a better Data Analyst having just finished Google's course on Coursera.
+
+More things about me:
+- Uruguayan.
+- Student; Major: Development studies; University: UdelaR.
+- Passionate about learning languages; currently fluent in Spanish (native) and English.
+
+Contact info:
+  ceciliaroccogr@gmail.com
 
 <!--
 **croccogr/croccogr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
